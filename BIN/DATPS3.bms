@@ -1,0 +1,11 @@
+endian big
+idstring "NISPACK\x00"
+get unknownValue long
+get filecount long
+for i = 0 < fileCount
+   getdstring name 0x20
+   get pointer long
+   get length long
+   get null long
+   log name pointer length
+next i

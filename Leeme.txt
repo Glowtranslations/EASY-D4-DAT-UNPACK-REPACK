@@ -1,0 +1,32 @@
+###############################
+# -EASY D4 DAT UNPACK-REPACK- #
+###############################
+
+##################################################################################################
+#                                                                                                #
+# Este simple programa te permite cifrar y/o descifrar los archivos DAT del videojuego Disgaea 4 #
+#                                                                                                #
+#  Solo basta con abrir el .bat en windows y seleccionar alguna opción descrita en el programa   #
+#                                                                                                #
+##################################################################################################
+
+#########################
+#	Créditos	#
+#########################
+
+################################################
+#                                              #
+#         Batch creado por Darkmet98           #
+#                                              #
+#         Quickbms por Luigi Auriemma          #
+#                                              #
+#       Script BMS PS3 creado por Raugo        #
+#                                              #
+# Script BMS PS Vita creado por Luigi Auriemma #
+#                                              #
+################################################
+#                                              #
+#              Glowtranslations                #
+#                    2017                      #
+#                                              #
+################################################
