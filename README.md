@@ -1,3 +1,4 @@
+![Glowtranslations](https://raw.githubusercontent.com/Glowtranslations/glowtranslations.github.io/master/images/logo.png)
 # EASY D4 DAT UNPACK-REPACK
 ## Programa para cifrar y/o descifrar los archivos DAT del videojuego Disgaea 4
 ## Créditos
